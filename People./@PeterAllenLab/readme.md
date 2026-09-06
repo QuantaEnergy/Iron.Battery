@@ -11,3 +11,4 @@ https://m.youtube.com/@PeterAllenLab
 # Timeline
 - [Iron Batteries are better for DIY than sodium-ion](https://youtu.be/2jU91JXs5NY)
 - [The iron battery: ferric/ferrous concentration cell](https://youtu.be/VzEGCZQeNJ4)
+- [Battery chemistry: Lithium v Sodium v Iron](https://youtu.be/e9MPMhMKud8)
