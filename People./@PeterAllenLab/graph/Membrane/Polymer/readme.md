@@ -1,2 +1,2 @@
 - [Pitch drop, the longest experiment and a new design for all iron battery](https://youtu.be/Xehh09peYi8)
-- 
+- [First version of the bag cell, a DIY all iron battery](https://youtu.be/Plrt6k7NIME)
